@@ -1,0 +1,11 @@
+body {
+    color: white;
+    background: black;
+}
+
+header {
+     border-battom: solid 2px rgb(7, 108, 240);
+     padding: 20px;
+     font-size:32px;
+     color:rgb(42,122,228);
+}
